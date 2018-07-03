@@ -1,3 +1,8 @@
-### Hello!
+### Read Me
 
-etc.
+\## Responsibilities
+
+| Person | Responsibilities |
+|----|----|
+|Chad|Get data|
+|Chad|Clean data sources|
