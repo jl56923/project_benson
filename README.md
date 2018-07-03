@@ -1,6 +1,6 @@
 ### Read Me
 
-\## Responsibilities
+## Responsibilities
 
 | Person | Responsibilities |
 |----|----|
